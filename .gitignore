@@ -1,0 +1,8 @@
+env/bin
+env/lib/python3.12/site-packages/IPython
+env/lib/python3.12/site-packages/__pycache__
+env/lib/python3.12/site-packages/_pytest
+env/lib/python3.12/site-packages/astroid
+env/lib/python3.12/site-packages/astroid-3.3.6.dist-info
+env/lib/python3.12/site-packages/asttokens
+env
